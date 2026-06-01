@@ -1,0 +1,3 @@
+/home/odinokovanastas/Big_prime_numbers/build/CMakeFiles/Big_prime_numbers.dir
+/home/odinokovanastas/Big_prime_numbers/build/CMakeFiles/edit_cache.dir
+/home/odinokovanastas/Big_prime_numbers/build/CMakeFiles/rebuild_cache.dir

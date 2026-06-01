@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Big_prime_numbers.dir/main.cpp.o CMakeFiles/Big_prime_numbers.dir/Algorithms.cpp.o -o Big_prime_numbers  -lgmp -lgmpxx 

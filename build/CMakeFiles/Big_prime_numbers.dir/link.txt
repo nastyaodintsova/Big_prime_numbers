@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Big_prime_numbers.dir/main.cpp.o CMakeFiles/Big_prime_numbers.dir/Arithmetic.cpp.o CMakeFiles/Big_prime_numbers.dir/PrimalityTests.cpp.o CMakeFiles/Big_prime_numbers.dir/Factorization.cpp.o CMakeFiles/Big_prime_numbers.dir/Sieves.cpp.o -o Big_prime_numbers  -lgmp -lgmpxx 
